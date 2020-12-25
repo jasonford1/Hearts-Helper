@@ -27,12 +27,12 @@ The way Heart Helper knows what card to remove/add is by the cardID you type. De
  _NOTE: Ace is 0 and Jack through King are J = 11, Q = 12, and K = 13_  
 
 ### **Remove a card: type cardID then press ENTER**
-When a card is played you will want to remove it from the deck. For example, to remove the 2 of Clubs type 2- then press ENTER. To remove the Ace of Clubs type 0- then press ENTER.    
+When a card is played you will want to remove it from the deck. For example, to remove the 2 of Clubs type 2- then press ENTER. To remove the Ace of Clubs type 0- then press ENTER.  
 
  Example: 12* then ENTER removes Queen of Hearts  
  Example: 0/ then ENTER removes Ace of Spades  
 
- _Input is optimized for numpad. When you use numpad you never have to lift you hand._
+ _NOTE: Input is optimized for numpad. When you use numpad you never have to lift you hand._  
 
 ### **Add a card: type + and cardID then press ENTER** 
 If you accidentally remove a card add it back. For example, type +0/ then ENTER to add the Ace of Spades.
