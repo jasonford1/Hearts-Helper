@@ -47,7 +47,7 @@ When a round finishes you can reset the deck by typing 000 then press ENTER. The
  Example: 000 then ENTER resets the deck
 
 ## Tips
-Input via numpad for optimal experience. You never have to lift your hand.
+Use your numpad for optimal experience. You never have to lift your hand.
 
 ### SIDE NOTES
 This project was created to see how giving users a photographic memory would improve their game. I am relatively new to programming and set the constraint that the project had to be finished in one day. Success!
