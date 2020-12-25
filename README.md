@@ -5,38 +5,43 @@ Gain photographic memory when you play hearts.
 Launch app.js in your favorite JavaScript runtime. Personally I use NodeJS in the terminal on a Mac, but you could just as easily copy the code and run it in the Chrome or Firefox console.
 
 ## Key Commands
-### Optimized for numpad on your keyboard.
-There are three types of input:
- - Remove a card: cardID then ENTER
- - Add a card: +cardID then ENTER
- - Reset the deck: 000 then ENTER
+_Input via numpad for optimal experience_
 
-CardID is the numerical face value of the card plus a symbol to represent suit. Symbols for suit are:
+There are three types of input:
+ - Remove a card
+   - Type cardID then ENTER
+ - Add a card
+   - Type +cardID then ENTER
+ - Reset the deck
+   - Type 000 then ENTER
+
+**CardID** is numerical face value plus a symbol to represent suit. Symbols for suit are:
  - / Spade
  - \* Heart
  - \- Club
- - \+ Dimaond
+ - \+ Dimaond  
 
-Example: 2 of Hearts is 2*
-Example: 5 of Diamonds is 5+
-__NOTE: Ace is 0 and Jack through Kind are J = 11, Q = 12, and K = 13__
+CardID Example: Two of Hearts is 2*  
+CardID Example: Ace of Diamonds is 0+  
 
-*** Remove a card by typing cardID then press ENTER ***
+_NOTE: Ace is 0 and Jack through King are J = 11, Q = 12, and K = 13_  
+
+**Remove a card by typing cardID then press ENTER**
 
 For example remove the 2 of Clubs by typing 2- then pressing ENTER. Or remove the Ace of Clubs by typing 0- then pressing ENTER.
 
-__Remember, input is optimized for numpad. Everything should be easily input without lifting your hand.__
+_Remember, input is optimized for numpad. Input easily without lifting your hand when you use numpad._
 
-*** Add a card by typing + and cardID then pressing ENTER *** 
+**Add a card by typing + and cardID then pressing ENTER** 
 
 If you accidentally remove the wrong card you can add it back. For example, to add the Ace of Spades back you type +0/ then press enter. Remember the Ace is a unique card in that it is represented by 0. 
 
-*** Reset the deck by typing 000 then pressing ENTER ***
+**Reset the deck by typing 000 then pressing ENTER**
 
- When a round is over and you need to reset the deck type 000 then press ENTER. The deck will go back to a full deck. Warning, there is no undo option so only do this when you are ready.
+When a round finishes you can reset the deck by typing 000 then press ENTER. The deck will go back to a full deck. Warning, there is no undo option so only do this when you are ready.
 
 ## SIDE NOTES
-This project was developed for fun as a way to see how giving users a photographic memory would improve their game.
+This project was a fun one day build created to see how giving users a photographic memory would improve their game.
 
 If you have any questions or comments please send them to jasonford1 at gmail.
 
