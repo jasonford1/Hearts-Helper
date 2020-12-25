@@ -1,5 +1,5 @@
 # HEART HELPER
-You get photographic memory superpower when you play hearts.
+Gain photographic memory when you play hearts.
 
 ## Installation
 Launch app.js in your favorite JavaScript runtime. Personally I use NodeJS in the terminal on a Mac, but you could just as easily copy the code and run it in the Chrome or Firefox console.
