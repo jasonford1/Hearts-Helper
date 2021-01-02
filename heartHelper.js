@@ -1,3 +1,8 @@
+// Heart Helper User Script //
+// Use with Tampermonkey    //
+// V 1.0.0                  //
+// BY JASON FORD            //
+
 // ==UserScript==
 // @name         Heart Helper
 // @description  Gives you perfect information in BGA Hearts
