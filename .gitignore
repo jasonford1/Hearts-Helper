@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# VS Code files
+.vscode
+
+# Reference files
+exampleTamperMonkey.js
+exampleBGA1.html
+exampleBGA2.html
+exampleBGA3.html
+exampleBGA4.html
+exampleBGA5.html
+hearts.js
