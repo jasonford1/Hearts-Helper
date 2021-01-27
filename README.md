@@ -1,5 +1,8 @@
 # HEART HELPER
-You get photographic memory superpower when you play hearts.
+You get photographic memory when you play hearts.
+
+# UPDATE 2021
+Install HeartHelper by downloading Tampermonkey browser extension (Firefox, Chrome, Safari, Opera). Then copy HeartHelper.js into Tampermonkey. Go to Boardgamearena.com and experience HeartHelper for yourself. Enjoy! The remaining information below is depecrated with the old_commandline_app.js.
 
 ## Installation
 Launch app.js in your favorite JavaScript runtime. Personally I use NodeJS in the terminal on a Mac, but you could just as easily copy the code and run it in the Chrome or Firefox console.
