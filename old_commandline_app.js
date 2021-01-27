@@ -1,3 +1,5 @@
+/* THIS COMMAND LINE TOOL HAS BEEN DEPRECATED */
+
 // CLI HEART HELPER //
 // V 1.0.0          //
 // BY JASON FORD    //
